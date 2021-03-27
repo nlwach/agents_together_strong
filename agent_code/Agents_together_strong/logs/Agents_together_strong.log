@@ -1,3 +1,0 @@
-2021-03-26 13:49:12,485 [Agents_together_strong_wrapper] DEBUG: Calling setup on callback.
-2021-03-26 13:49:12,485 [Agents_together_strong_code] ERROR: Unable to find '/wpodmvc/noahwach/Desktop/Uni/Informatik/ML/bomberman_git/bomberman/agent_code/Agents_together_strong/multimulti.pt'. Is the model trained yet?
-2021-03-26 13:49:12,485 [Agents_together_strong_wrapper] ERROR: An exception occurred while calling setup: Unable to find '/wpodmvc/noahwach/Desktop/Uni/Informatik/ML/bomberman_git/bomberman/agent_code/Agents_together_strong/multimulti.pt'. Is the model trained yet?
